@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Blackstone
+authors:
+- family-names: Hoadley
+  given-names: Daniel
+- name: ICLR&D
+repository-code: https://github.com/edithatogo/Blackstone
+url: https://github.com/edithatogo/Blackstone
+references:
+- type: software
+  title: Blackstone
+  authors:
+  - family-names: Hoadley
+    given-names: Daniel
+  - name: ICLR&D
+  repository-code: https://github.com/ICLRandD/Blackstone
+  url: https://github.com/ICLRandD/Blackstone
