@@ -1,4 +1,4 @@
-FROM python:3.6.4-stretch
+FROM python:3.6.4-stretch@sha256:db22cb78ba16cb6a0632eead1e48a239636a5a77c9f8cf343087acf309ad0248
 
 # install base packages
 RUN apt-get clean \
